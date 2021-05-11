@@ -1,0 +1,22 @@
+#videoSE {
+    //position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    position: relative;
+    height: 500px;
+    resize: both;
+    overflow: auto;
+    //box-shadow: 0 0 5px 5px #141414;
+  }
+
+  .viewport-header {
+    position: relative;
+    height: 50vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
